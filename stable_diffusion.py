@@ -3,6 +3,7 @@ from __future__ import annotations
 # https://github.com/ekagra-ranjan/huggingface-blog/blob/main/stable_diffusion.md
 # Blatantly copied from:
 # https://github.com/geohot/tinygrad/blob/master/examples/stable_diffusion.py
+# https://github.com/geohot/tinygrad/blob/master/LICENSE
 import os
 import gzip
 import argparse
